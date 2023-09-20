@@ -1,0 +1,1 @@
+Titulo{nome='The Batman', anoDeLancamento=2022, duracaoEmMinutos=176}
